@@ -56,7 +56,7 @@ export default function About() {
 
                   <div className="text-center md:text-left">
                     <h3 className="text-2xl font-bold text-foreground">
-                      Aditya 
+                      Aditya kumar
                     </h3>
                     <p className="text-primary font-medium mt-1">
                       Data Analyst
