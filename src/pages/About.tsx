@@ -68,7 +68,7 @@ export default function About() {
                       </span>
                       <span className="flex items-center gap-1">
                         <Calendar className="w-4 h-4" />
-                        1+ Month Exp
+                        5+ Month Exp
                       </span>
                     </div>
                   </div>
