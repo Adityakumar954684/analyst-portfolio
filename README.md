@@ -6,8 +6,6 @@
 
 
 
-
-
 Follow these steps:
 
 ```sh
