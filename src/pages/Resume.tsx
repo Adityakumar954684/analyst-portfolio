@@ -12,7 +12,9 @@ import {
   Wrench,
 } from "lucide-react";
 
+
 const experience = [
+  /*
   {
     title: "Data Analyst / MIS Executive",
     company: "Indo-MIM Pvt. Ltd.",
@@ -25,18 +27,23 @@ const experience = [
       "Tracked output, rejection, and performance metrics",
     ],
   },
-  // {
-  //   title: "Mechanical Design Assistant",
-  //   company: "Indo-MIM Pvt. Ltd.",
-  //   period: "2025 - Present",
-  //   responsibilities: [
-  //     "Assisted in mechanical part designing as per production requirements",
-  //     "Worked on part drawings, specifications, and design documentation",
-  //     "Coordinated with manufacturing teams for design clarification and updates",
-  //     "Maintained design-related data and part records",
-  //     "Supported improvements in part accuracy and production readiness",
-  //   ],
-  // },
+  */
+
+  /*
+  {
+    title: "Mechanical Design Assistant",
+    company: "Indo-MIM Pvt. Ltd.",
+    period: "2025 - Present",
+    responsibilities: [
+      "Assisted in mechanical part designing as per production requirements",
+      "Worked on part drawings, specifications, and design documentation",
+      "Coordinated with manufacturing teams for design clarification and updates",
+      "Maintained design-related data and part records",
+      "Supported improvements in part accuracy and production readiness",
+    ],
+  },
+  */
+ 
   
 ];
 
