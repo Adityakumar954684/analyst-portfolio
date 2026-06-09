@@ -13,7 +13,7 @@ import {
 const stats = [
   { label: "Projects Completed", value: "10+" },
   { label: "Data Points Analyzed", value: "5M+" },
-  { label: "Month Experience", value: "1+" },
+  { label: "Month Experience", value: "5+" },
   { label: "Technologies", value: "10+" },
 ];
 
@@ -83,7 +83,7 @@ export default function Home() {
             {/* Main Heading */}
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in [animation-delay:100ms]">
               Hi, I'm{" "}
-              <span className="gradient-text">Aditya Kumar</span>
+              <span className="gradient-text">Aditya</span>
               <br />
               <span className="text-muted-foreground">Data Analyst</span>
             </h1>
